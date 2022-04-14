@@ -1,6 +1,6 @@
 <h1 align="center">Holla Classical</h1>
 <p align="center">
-<img src="https://raw.githubusercontent.com/meforce/Holla-Classical/main/imagesdemo/holla-logo-80.png" style="display: block;margin-left: auto;margin-right: auto;" data-canonical-src="https://raw.githubusercontent.com/meforce/Holla-Classical/main/imagesdemo/holla-logo-80.png" width="200" height="200" align="center"/><br><br>
+<img src="https://raw.githubusercontent.com/meforce/Holla-Classical/main/imagesdemo/holla-logo-80.png" style="display: block;margin-left: auto;margin-right: auto;" data-canonical-src="https://raw.githubusercontent.com/meforce/Holla-Classical/main/imagesdemo/holla-logo-80.png" width="100" height="100" align="center"/><br><br>
 </p>
 
 <p>Holla Classical is Responsive Business and Corporate HTML5 Template. It’s ideal for any company project, startup, agency, digital and business agency.</p>
