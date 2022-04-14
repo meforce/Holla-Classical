@@ -1,11 +1,16 @@
-# Holla-Classical
- Holla Classical is Responsive Business and Corporate HTML5 Template. It’s ideal for any company project, startup, agency, digital and business agency.
+<h1 align="center">Holla Classical</h1>
+<p align="center">
+<img src="https://raw.githubusercontent.com/meforce/Holla-Classical/main/imagesdemo/holla-logo-80.png" style="display: block;margin-left: auto;margin-right: auto;" data-canonical-src="https://raw.githubusercontent.com/meforce/Holla-Classical/main/imagesdemo/holla-logo-80.png" width="200" height="200" align="center"/><br><br>
+</p>
 
 <p>Holla Classical is Responsive Business and Corporate HTML5 Template. It’s ideal for any company project, startup, agency, digital and business agency.</p>
 <p>Creating fast and quality themes with bootstrap 5. Responsive themes and mobile compatibility.</p>
 <p>Large library of plugins. There are many modules and template pages ready for you.</p>
 <p>Holla Classical unique and modern design.Looking Very Simple & Awesome. It Is Easy To Customization, You can Used On Your Webside Looking perfect Business and Corporate Template.</p>
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/meforce/Holla-Classical/main/imagesdemo/holla-classical-cover-new.jpg" style="display: block;margin-left: auto;margin-right: auto;" data-canonical-src="https://raw.githubusercontent.com/meforce/Holla-Classical/main/imagesdemo/holla-classical-cover-new.jpg" align="center"/><br><br>
+</p>
 
 <h3>Multiple Homepage Templates</h3>
 <p>There are 3 ready-made homepage templates.</p>
